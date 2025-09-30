@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BOP2FE"]
+	path = BOP2FE
+	url = https://github.com/belayb/bop2fe
 [submodule "BayesGmed"]
 	path = BayesGmed
 	url = https://github.com/belayb/bayesgmed
