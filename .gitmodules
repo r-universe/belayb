@@ -8,6 +8,3 @@
 [submodule "BayesGmed"]
 	path = BayesGmed
 	url = https://github.com/belayb/bayesgmed
-[submodule "drugprepr"]
-	path = drugprepr
-	url = https://github.com/belayb/drugprepr
